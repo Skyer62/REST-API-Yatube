@@ -1,4 +1,4 @@
-# api_final
+# REST API Yatube
 REST API для проекта Yatube
 # Стек технологий
 - Python + Django REST Framework
